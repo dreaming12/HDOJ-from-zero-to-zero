@@ -1,10 +1,10 @@
-<div style="text-align: center; font-size: 1.3em">
+<p align="center">
 
 # HDOJ-from-zero-to-zero
 
-`<<< <<< <<<` [:milky_way: 传送门](http://acm.hdu.edu.cn/) `>>> >>> >>>`
+<<< <<< <<< [:milky_way: 传送门](http://acm.hdu.edu.cn/) >>> >>> >>>
 
-</div>
+</p>
 
 ---
 ## :date: 阶段性计划
