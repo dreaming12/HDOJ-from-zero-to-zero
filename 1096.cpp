@@ -2,6 +2,7 @@
  * CATEGORY: 基础-基本输入输出
  * FROM: http://acm.hdu.edu.cn/showproblem.php?pid=1096
  * UPDATE: 2021-03-28
+ * LEVEL: C
  */
 
 #include <iostream>
@@ -20,8 +21,10 @@ int main(void) {
             sum += a;
         }
 
-        // ！！！ - 注意最后一个输出后没有空行
-        // ！！！ - 注意只有一组数据时也是如此
+        /**
+         * ！！！ - 注意最后一个输出后没有空行
+         * ！！！ - 注意只有一组数据时也是如此
+         */
         if (i == 1) {
             cout << sum << endl;
         } else {

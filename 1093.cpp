@@ -2,6 +2,7 @@
  * CATEGORY: 基础-基本输入输出
  * FROM: http://acm.hdu.edu.cn/showproblem.php?pid=1093
  * UPDATE: 2021-03-28
+ * LEVEL: C
  */
 
 #include <iostream>
