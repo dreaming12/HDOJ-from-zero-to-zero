@@ -1,14 +1,14 @@
-<p align="center">
+<div align="center">
 
 # HDOJ-from-zero-to-zero
 
-</p>
+</div>
 
-<p style="text-align: center; font-size: 1.5em">
+<div style="text-align: center; font-size: 1.5em">
 
 <<< <<< <<<  [:milky_way:](http://acm.hdu.edu.cn/)  >>> >>> >>>
 
-</p>
+</div>
 
 ---
 
