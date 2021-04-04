@@ -1,7 +1,7 @@
 /**
- * CATEGORY: 基础-基本输入输出
+ * CATEGORY: 基本输入输出
  * FROM: http://acm.hdu.edu.cn/showproblem.php?pid=1094
- * UPDATE: 2021-03-28
+ * DATE: 2021-03-28
  * LEVEL: C
  */
 
