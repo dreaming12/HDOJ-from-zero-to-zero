@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 # Personal File
+test
 test.cpp
 template.cpp
 unsolved_problems.md
